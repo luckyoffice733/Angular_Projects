@@ -1,3 +1,19 @@
+Assignment:
+---------
+Template Driven Form:
+=====================
+
+https://medium.com/@zeeshankhan8838/template-driven-form-in-angular-b80a3ebbcd24
+
+Reactive Forms:
+===============
+https://medium.com/@krishsurya1249/angular-reactive-forms-c3effd9be1f0
+
+
+
+Introduction:
+============
+
 Angular form Validation - Validation is the process of verifying user input. 
 
 - Validation is required to insured that contradictory and unauthorized data is not get stored 
@@ -10,7 +26,6 @@ functions.
 
 1)Form state validation services. 
 2)Input state validation services. 
-
 
 
 Form state services:- - 
@@ -54,6 +69,7 @@ ngInvalid 	invalid 	It return true if field is invalid.
 ngValid 	valid 		It return true if field is valid. 
 
 ngSubmitted 	submitted 	It return true only when the form is submitted. 
+
 errors 		errors 		It is an input field object that contains collection of 
 				error properties. That are used to verify specific error in the field.
 
